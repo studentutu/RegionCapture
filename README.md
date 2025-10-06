@@ -1,7 +1,7 @@
-# Texture Region Capture (Ver. 2.2.5)
-Plugin for Unity 2019.2.12 and higher
+# Texture Region Capture (Ver. 2.3.0)
+Plugin for Unity 6000.0.46 and higher
 
-> Compatibility with Vuforia 8.3.9
+> Compatibility with Vuforia 11.x
 
 ARCore and ARKit are supported by Unity ARFoundation (You can setup it from the Package Manager)
 
