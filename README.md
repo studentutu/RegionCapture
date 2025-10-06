@@ -48,7 +48,7 @@ Available methods:
 
 
        	
-If you see a shift of the captured image or another bug, please report [here](https://developer.vuforia.com/forum/unity-extension-technical-discussion/region-capture-0)
+If you see a shift of the captured image or another bug, please report it.
 
 Bug report should be in the following format:
 
